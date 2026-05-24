@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "VMSDEP Templates",
+  "version": "1.1.1",
+  "description": "Build standardized VMSDEP email responses and locally highlight key VMSDEP PDF terms.",
+  "action": {
+    "default_title": "VMSDEP Templates",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/DVSflag.png",
+      "32": "icons/DVSflag.png",
+      "48": "icons/DVSflag.png",
+      "128": "icons/DVSflag.png"
+    }
+  },
+  "icons": {
+    "16": "icons/DVSflag.png",
+    "32": "icons/DVSflag.png",
+    "48": "icons/DVSflag.png",
+    "128": "icons/DVSflag.png"
+  },
+  "permissions": ["clipboardWrite", "activeTab"],
+  "host_permissions": [
+    "file:///C:/Users/*/Downloads/VeteranDisabilityDeathDocumentation_*",
+    "file:///C:/Users/*/Downloads/VeteranProofOfMilitaryService_*",
+    "file:///C:/Users/*/Downloads/ApplicantProofOfDateOfApplication_*",
+    "file:///C:/Users/*/Downloads/ApplicantProofOfResidency_*",
+    "file:///C:/Users/*/Downloads/ApplicantProofOfDegreeGrantingProgram_*",
+    "file:///C:/Users/*/Downloads/ApplicantProofOfDependency_*"
+  ]
+}

@@ -1,0 +1,358 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 420px;
+  margin: 0;
+  padding: 0;
+  background: #f5f6f8;
+  color: #222;
+}
+
+.container {
+  padding: 6px 12px 10px 12px;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 0 8px 0;
+  padding: 0;
+}
+
+.header-logo {
+  width: 132px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+  padding: 0;
+  line-height: 1.1;
+  font-weight: 700;
+  text-align: right;
+  white-space: nowrap;
+  color: #0f6cbd;
+}
+
+h2 {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+#searchBox {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px;
+  border: 1px solid #b8b8b8;
+  border-radius: 5px;
+  margin-top: 0;
+  margin-bottom: 6px;
+}
+
+.template-list {
+  max-height: 250px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 5px;
+  padding: 6px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.category-section {
+  margin-bottom: 6px;
+}
+
+.category-header {
+  width: 100%;
+  border: none;
+  background: #e8f1fb;
+  color: #0f6cbd;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 7px 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  margin: 0 0 4px 0;
+}
+
+.category-header:hover {
+  background: #d9eaf8;
+}
+
+.category-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.category-arrow {
+  font-size: 12px;
+  margin-left: 8px;
+}
+
+.category-items {
+  border-left: 2px solid #e8f1fb;
+  margin-left: 4px;
+  padding-left: 6px;
+}
+
+.template-item {
+  border-bottom: 1px solid #e6e6e6;
+  padding: 8px 0;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 8px;
+  align-items: start;
+}
+
+.template-item:last-child {
+  border-bottom: none;
+}
+
+.template-select-label {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  cursor: pointer;
+  min-width: 0;
+}
+
+.template-select-label input[type="checkbox"] {
+  margin-top: 3px;
+  flex-shrink: 0;
+}
+
+.template-text-wrapper {
+  min-width: 0;
+}
+
+.template-title {
+  font-weight: bold;
+  font-size: 13px;
+  overflow-wrap: anywhere;
+}
+
+.template-category {
+  font-size: 11px;
+  color: #666;
+}
+
+.pin-button {
+  width: 24px;
+  height: 24px;
+  min-width: 24px;
+  padding: 0;
+  margin: 0;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  color: #777;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.pin-button:hover {
+  background: #eef3f8;
+  color: #0f6cbd;
+}
+
+.pin-button.pinned {
+  color: #0f6cbd;
+  font-weight: bold;
+}
+
+.preview-header {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  width: 100%;
+  margin: 8px 0 5px 0;
+  padding: 0;
+}
+
+.standard-text-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 5px;
+  font-size: 12px;
+  color: #333;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.standard-text-toggle input[type="checkbox"] {
+  margin: 0;
+  padding: 0;
+}
+
+#previewBox {
+  width: 100%;
+  height: 150px;
+  box-sizing: border-box;
+  resize: vertical;
+  padding: 8px;
+  border: 1px solid #b8b8b8;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  width: 100%;
+  margin-top: 8px;
+  padding: 9px;
+  background: #0f6cbd;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0b5a9e;
+}
+
+#statusMessage {
+  font-size: 12px;
+  color: green;
+  margin-top: 6px;
+  margin-bottom: 0;
+}
+
+/* ── Utility ─────────────────────────────── */
+.hidden {
+  display: none !important;
+}
+
+/* ── Title dropdown ──────────────────────── */
+.title-dropdown-wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.title-dropdown-btn {
+  width: auto;
+  margin-top: 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  font-size: 22px;
+  font-weight: 700;
+  color: #0f6cbd;
+  cursor: pointer;
+  white-space: nowrap;
+  line-height: 1.1;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.title-dropdown-btn:hover {
+  background: transparent;
+  color: #0b5a9e;
+}
+
+.dropdown-caret {
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+.title-dropdown-menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 4px);
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  z-index: 200;
+  min-width: 210px;
+  overflow: hidden;
+}
+
+.dropdown-item {
+  width: 100%;
+  margin-top: 0;
+  padding: 10px 16px;
+  background: none;
+  border: none;
+  border-radius: 0;
+  text-align: left;
+  font-size: 14px;
+  font-weight: normal;
+  color: #333;
+  cursor: pointer;
+  display: block;
+}
+
+.dropdown-item:hover {
+  background: #f0f4f8;
+  color: #0f6cbd;
+}
+
+.dropdown-item.active {
+  font-weight: 700;
+  color: #0f6cbd;
+}
+
+/* ── PDF Keyword Highlighter panel ────────── */
+.pdf-tool-description {
+  font-size: 13px;
+  color: #555;
+  margin: 8px 0 12px 0;
+  line-height: 1.4;
+}
+
+.keyword-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+.keyword-tag {
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #222;
+  display: inline-block;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.secondary-btn {
+  background: #6c757d;
+  margin-top: 6px;
+}
+
+.secondary-btn:hover {
+  background: #5a6268;
+}
+
+#highlightStatus {
+  font-size: 12px;
+  margin-top: 8px;
+  margin-bottom: 0;
+  min-height: 18px;
+}

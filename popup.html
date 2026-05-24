@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>VMSDEP Templates</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="icons/DVSflag.png" alt="DVS Logo" class="header-logo" />
+      <div class="title-dropdown-wrapper">
+        <button id="titleDropdownBtn" class="title-dropdown-btn" type="button">
+          <span id="activeToolTitle">VMSDEP Templates</span>
+          <span class="dropdown-caret">&#9660;</span>
+        </button>
+        <div id="titleDropdownMenu" class="title-dropdown-menu hidden">
+          <button class="dropdown-item active" data-tool="templates">Email Templates</button>
+          <button class="dropdown-item" data-tool="pdfHighlighter">Specialist PDF Assistant</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Email Templates Panel -->
+    <div id="templatesPanel">
+      <input
+        type="text"
+        id="searchBox"
+        placeholder="Search templates..."
+      />
+
+      <div id="templateList" class="template-list"></div>
+
+      <div class="preview-header">
+        <h2>Preview</h2>
+
+        <label class="standard-text-toggle">
+          <input type="checkbox" id="includeStandardTextCheckbox" checked />
+          <span>Greeting/Closing</span>
+        </label>
+      </div>
+
+      <textarea id="previewBox" readonly></textarea>
+
+      <button id="copyButton">Copy Email Text</button>
+
+      <p id="statusMessage"></p>
+    </div>
+
+    <!-- PDF Keyword Highlighter Panel -->
+    <div id="pdfHighlighterPanel" class="hidden">
+      <p class="pdf-tool-description">
+        Highlights key disability terminology in the active browser tab.
+        Works on web pages and web-based PDF viewers.
+      </p>
+
+      <div class="keyword-grid">
+        <span class="keyword-tag" style="background:#ffff80;">Static</span>
+        <span class="keyword-tag" style="background:#90EE90;">Total and Permanent</span>
+        <span class="keyword-tag" style="background:#DDA0DD;">Permanently and Total</span>
+        <span class="keyword-tag" style="background:#FFB6C1;">Permanent</span>
+        <span class="keyword-tag" style="background:#87CEEB;">Totally and Permanently</span>
+        <span class="keyword-tag" style="background:#FFD700;">Examination</span>
+        <span class="keyword-tag" style="background:#F0E68C;">Exams</span>
+        <span class="keyword-tag" style="background:#98FB98;">No Future Exams</span>
+      </div>
+
+      <button id="openViewerBtn">Open Current Tab in PDF Viewer</button>
+
+      <p id="highlightStatus"></p>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

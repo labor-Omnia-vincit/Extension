@@ -1,0 +1,334 @@
+[
+  {
+    "id": "helpful_vmsdep_links",
+    "category": "General Information",
+    "title": "Helpful VMSDEP Links",
+    "bodyText": "Below are some helpful links pertaining to VMSDEP.\n\nVirginia Public Colleges: Virginia-Public-Colleges-and-Universities.pdf\n\nFrequently Asked Questions: Frequently Asked Questions 2025-2026\n\nGeneral Information: Virginia Military Survivors & Dependents Education Program - Virginia Department of Veterans Services\n\nOnline Application Portal: Virginia Military Survivors and Dependent Education Program Virginia Department of Veteran Services\n\nInstructions for portal:\n1. Register a VMSDEP Account\n2. Submit Request for Veteran Verification\n3. Submit an Application for VMSDEP Benefits",
+    "bodyHtml": "<p>Below are some helpful links pertaining to VMSDEP.</p><p>Virginia Public Colleges: <a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/150/638538919084900000\">Virginia-Public-Colleges-and-Universities.pdf</a></p><p>Frequently Asked Questions: <a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/1027/639100525687930000\">Frequently Asked Questions 2025-2026</a></p><p>General Information: <a href=\"https://www.dvs.virginia.gov/benefits-services/education/virginia-military-survivors-dependents-education-program-vmsdep\">Virginia Military Survivors &amp; Dependents Education Program - Virginia Department of Veterans Services</a></p><p>Online Application Portal: <a href=\"https://vmsdep.dvs.virginia.gov/user/login\">Virginia Military Survivors and Dependent Education Program Virginia Department of Veteran Services</a></p><p>Instructions for portal:<br>1. <a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/152/638538945922970000\">Register a VMSDEP Account</a><br>2. <a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/154/638538946469630000\">Submit Request for Veteran Verification</a><br>3. <a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/156/638538946814670000\">Submit an Application for VMSDEP Benefits</a></p>",
+    "active": true
+  },
+  {
+    "id": "vmsdep_virginia_public_colleges_only",
+    "category": "Eligibility",
+    "title": "VMSDEP Only Usable at Virginia Public Colleges",
+    "bodyText": "Unfortunately, VMSDEP can only be used at Virginia public colleges.\n\nVirginia Public Colleges: Virginia-Public-Colleges-and-Universities.pdf",
+    "bodyHtml": "<p>Unfortunately, VMSDEP can only be used at Virginia public colleges.</p><p>Virginia Public Colleges: <a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/150/638538919084900000\">Virginia-Public-Colleges-and-Universities.pdf</a></p>",
+    "active": true
+  },
+  {
+  "id": "enrollment_open_close_dates",
+  "category": "Enrollment",
+  "title": "Enrollment Open/Close Dates",
+  "bodyText": "You must access your VMSDEP account and update your enrollment information each semester you intend to use your VMSDEP benefits.\n\nInstructions on how to use your VMSDEP benefits\n\nAfter you have completed the listed instructions, you must contact the attending school(s) for detailed information pertaining to your student account balance.\n\nEnrollment Open/Close Dates\n\nTerms | Open | Close (Due by)\nFall | July 01 | October 31\nSpring (Winter credits hours are combined with Spring) | November 01 | March 31\nSummer | April 01 | June 30\n\nIf you do not complete your enrollment update by the listed Close (Due by) date, you must request retroactive approval from your attending Virginia public college or university; and if approved, the respective institution will notify the VMSDEP Office of such approval; upon which, the Office will authorize the qualifying semester.",
+  "bodyHtml": "<p>You must access your <a href=\"https://vmsdep.dvs.virginia.gov/user/login\">VMSDEP account</a> and update your enrollment information each semester you intend to use your VMSDEP benefits.</p><ul><li><a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/158/638538948747200000\">Instructions on how to use your VMSDEP benefits</a></li></ul><p>After you have completed the listed instructions, you must contact the attending school(s) for detailed information pertaining to your student account balance.</p><h2 style=\"font-size: 22px; margin: 18px 0 10px 0;\">Enrollment Open/Close Dates</h2><table style=\"border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;\"><thead><tr style=\"background-color: #0f6cbd; color: white;\"><th style=\"border: 1px solid #b8b8b8; padding: 8px; text-align: left;\">TERMS</th><th style=\"border: 1px solid #b8b8b8; padding: 8px; text-align: left;\">OPEN</th><th style=\"border: 1px solid #b8b8b8; padding: 8px; text-align: left;\">CLOSE (DUE BY)</th></tr></thead><tbody><tr><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">Fall</td><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">July 01</td><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">October 31</td></tr><tr><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">Spring (Winter credits hours are combined with Spring)</td><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">November 01</td><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">March 31</td></tr><tr><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">Summer</td><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">April 01</td><td style=\"border: 1px solid #b8b8b8; padding: 6px;\">June 30</td></tr></tbody></table><p>If you do not complete your enrollment update by the listed <em>Close (Due by)</em> date, you must request retroactive approval from your attending Virginia public college or university; and if approved, the respective institution will notify the VMSDEP Office of such approval; upon which, the Office will authorize the qualifying semester.</p>",
+  "active": true
+},
+{
+  "id": "enrollment_updated_current_term",
+  "category": "Enrollment",
+  "title": "{{currentTerm}} Enrollment Updated",
+  "body": "Your enrollment has been updated in the VMSDEP portal for {{currentTerm}}. There are no further steps to be completed with the VMSDEP office. The school will log into the portal when they get to your name on their student roster to certify your enrollment in the VMSDEP portal.",
+  "active": true
+},{
+  "id": "password_reset_link_sent",
+  "category": "Portal",
+  "title": "Password Reset Link Sent",
+  "body": "Your update password link was sent to your registered email. Please check your spam and junk folders if you do not see this email come in the next few minutes.\n\nPlease use Google Chrome on a computer to properly utilize the VMSDEP portal.",
+  "active": true
+},
+  {
+    "id": "stipend_schev_information",
+    "category": "Enrollment",
+    "title": "SCHEV Stipend Information",
+    "body": "The Virginia Military Survivors and Dependents Education Program stipend is disbursed only by the State Council of Higher Education for Virginia (SCHEV). If available, SCHEV releases the funds to your attending school for allocation. To inquire about the status of your VMSDEP stipend allotment, you must contact your attending school’s financial aid department. If you are informed the stipend has not yet been released to the school, you may request that department contact SCHEV for detailed information pertaining to your stipend disbursement.",
+    "active": true
+  },
+  {
+    "id": "contact_us_directly_policy",
+    "category": "Privacy",
+    "title": "Student/Veteran Must Contact Us Directly",
+    "body": "Please have them log in to their respective accounts. If they have any questions or concerns, due to the policies of this department, they would need to contact us directly.",
+    "active": true
+  },
+  {
+    "id": "verify_identity_different_email",
+    "category": "Privacy",
+    "title": "Verify Identity - Different Email Address",
+    "body": "Please confirm your name, date of birth, and address listed on your VMSDEP account, since you are contacting us from a different email address than what is listed on your VMSDEP account as your system username.",
+    "active": true
+  },
+  {
+    "id": "no_coe_for_vmsdep",
+    "category": "Chapter 35",
+    "title": "No COE Provided for VMSDEP",
+    "body": "There are no Certificates of Eligibility (COEs) provided with VMSDEP. A COE is a document regarding federal benefits.",
+    "active": true
+  },
+  {
+    "id": "chapter_35_separate_benefit",
+    "category": "Chapter 35",
+    "title": "Chapter 35 Is Separate from VMSDEP",
+    "body": "Please note, this is the VMSDEP office. We can help with portal access issues and questions about how the VMSDEP benefits work. The Chapter 35 (DEA) monthly stipend is a separate federal VA benefit administered by the U.S. Department of Veterans Affairs, so please contact the VA for Chapter 35 questions. You may contact the GI Bill Hotline at 888-442-4551 or visit ask.va.gov. If your inquiry is about VMSDEP, please reply to this email.",
+    "active": true
+  },
+{
+  "id": "stepchild_tier_2_requirements",
+  "category": "Eligibility",
+  "title": "Stepchild Tier 2 Requirements",
+  "bodyText": "To qualify, unless a stepchild is adopted, all of the following requirements must be met:\n\n• Be the stepchild of a deceased Tier 2 qualifying military service member who claimed the stepchild on his or her tax return or on his or her Defense Enrollment Eligibility Reporting System while serving on active duty; and\n\n• Be between ages of 16 and 29; and\n\n• Attend a Virginia public college or university.\n\nYou can further reference this requirement on our website under \"Requirements for Tier 2 Authorization.\"\n\nVirginia Military Survivors & Dependents Education Program - Virginia Department of Veterans Services",
+  "bodyHtml": "<p><strong style=\"font-size: 18px;\">To qualify, unless a stepchild is adopted, all of the following requirements must be met:</strong></p><ul><li>Be the stepchild of a <strong>deceased</strong> Tier 2 qualifying military service member who claimed the stepchild on his or her tax return or on his or her Defense Enrollment Eligibility Reporting System while serving on active duty; and</li><li>Be between ages of 16 and 29; and</li><li>Attend a <a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/150/638538919084900000\">Virginia public college or university</a>.</li></ul><p>You can further reference this requirement on our website under \"Requirements for Tier 2 Authorization.\"</p><p><a href=\"https://www.dvs.virginia.gov/benefits-services/education/virginia-military-survivors-dependents-education-program-vmsdep\">Virginia Military Survivors &amp; Dependents Education Program - Virginia Department of Veterans Services</a></p>",
+  "active": true
+},
+  {
+    "id": "school_certifies_enrollment",
+    "category": "Enrollment",
+    "title": "School Certifies Enrollment",
+    "body": "Once enrollment has been updated in the portal, the school will have access to the portal and certify the student's enrollment. Please contact the military office at your college for any questions on how long they may take to waive tuition.",
+    "active": true
+  },
+  {
+    "id": "cannot_confirm_eligibility_by_email",
+    "category": "Eligibility",
+    "title": "Cannot Confirm Eligibility by Email",
+    "body": "At no point can we confirm eligibility by email. We are only able to provide and explain the requirements.",
+    "active": true
+  },
+{
+  "id": "proof_of_presence_in_virginia",
+  "category": "Proof of Presence",
+  "title": "Proof of Presence in Virginia",
+  "bodyText": "Proof of Presence in Virginia\n\nEvidence showing the qualifying military service member meets the domiciliary requirement as defined in the Code of Virginia § 23.1-608 is required if Virginia is not listed as the Home of Record Upon Entry on the item used to show Proof of Military Service.\n\nIf applicable, evidence to show Proof of Presence in Virginia must show the qualifying military service member's full name, date, and physical address. In most cases, one document for each year is required to show presence in Virginia for at least five years immediately prior to the date on which the admission application was submitted by or on behalf of the applying dependent(s) to a Virginia public college or university.\n\nExamples of evidence to show Proof of Presence in Virginia:\n\nState Income Tax Records\nReal Estate Tax Records\nPersonal Property Tax Records\nVoter Registration Records\nMortgage Monthly Statement or Residential Rental/Lease Agreement\nPayroll or Check Stubs Issued with Virginia Address\nLeave and Earning Statement Form\nAnnual Social Security Statement\nUtility Bills\nLetter from commanding officer on official letterhead with an original signature stating that the Veteran currently lives in Virginia and specifying the length of time resided in Virginia.",
+  "bodyHtml": "<p><strong>Proof of Presence in Virginia</strong></p><p>Evidence showing the qualifying military service member meets the domiciliary requirement as defined in the <a href=\"https://law.lis.virginia.gov/vacode/title23.1/chapter6/section23.1-608/#:~:text=Virginia%20Military%20Survivors%20and%20Dependents%20Education%20Program%3B%20tuition%20and%20fee%20waivers.&text=However%2C%20the%20Commissioner%20of%20Veterans,before%20the%20age%20of%2030.\">Code of Virginia § 23.1-608</a> is required if Virginia is not listed as the Home of Record Upon Entry on the item used to show Proof of Military Service.</p><p>If applicable, evidence to show Proof of Presence in Virginia must show the qualifying military service member's full name, date, and physical address. In most cases, one document for each year is required to show presence in Virginia for at least five years immediately prior to the date on which the admission application was submitted by or on behalf of the applying dependent(s) to a Virginia public college or university.</p><p><strong>Examples of evidence to show Proof of Presence in Virginia:</strong></p><ul><li>State Income Tax Records</li><li>Real Estate Tax Records</li><li>Personal Property Tax Records</li><li>Voter Registration Records</li><li>Mortgage Monthly Statement or Residential Rental/Lease Agreement</li><li>Payroll or Check Stubs Issued with Virginia Address</li><li>Leave and Earning Statement Form</li><li>Annual Social Security Statement</li><li>Utility Bills</li><li>Letter from commanding officer on official letterhead with an original signature stating that the Veteran currently lives in Virginia and specifying the length of time resided in Virginia.</li></ul>",
+  "active": true
+},
+  {
+    "id": "school_benefits_confirmation_requested",
+    "category": "Benefits Used",
+    "title": "School Confirmation Requested",
+    "body": "We have contacted your attending school’s financial aid department for confirmation of your benefits used. Please allow up to 5 business days before following up on your request.",
+    "active": true
+  },
+  {
+    "id": "account_reopened_submit_application",
+    "category": "Portal",
+    "title": "Account Reopened - Submit Application",
+    "body": "Your account has been reopened. Please log in and select \"Submit Application\" after the remaining documentation is uploaded.",
+    "active": true
+  },  {
+    "id": "vet_account_reopened_submit",
+    "category": "Portal",
+    "title": "Veteran Account Reopened - Submit for Verification",
+    "body": "Your account has been reopened. Please log in and select \"Submit for Verification\" after the remaining documentation is uploaded.",
+    "active": true
+  },
+  {
+    "id": "age_waiver_current_students_only",
+    "category": "Age Waiver",
+    "title": "Age Waiver Applies to Current Approved Students",
+    "body": "Please be advised that the age waiver application can only be submitted for current VMSDEP students who have already received approval, prior to turning 30.",
+    "active": true
+  },
+  {
+    "id": "eight_semester_limit_age_limit",
+    "category": "Eligibility",
+    "title": "Eight Semester Limit and Age Limit",
+    "body": "Yes, VMSDEP benefits are limited to eight semesters total. The semesters do not have to be used consecutively, but there is an age limit for children of the veteran, which is 16-29. Even if a student takes only one class in a semester, it still counts as one of the eight semesters.",
+    "active": true
+  },
+{
+  "id": "office_cannot_remove_semesters",
+  "category": "Benefits Used",
+  "title": "VMSDEP Office Cannot Remove Semesters",
+  "body": "Unfortunately, the VMSDEP office does not have the ability to remove semesters. If you would like the {{currentTerm}} term to reflect that you are not using the benefit, please contact the military office at your college.",
+  "active": true
+},
+  {
+    "id": "documents_must_be_uploaded_pdf",
+    "category": "Documents",
+    "title": "Documents Must Be Uploaded as PDF",
+    "body": "Unfortunately, all documents must be uploaded to the portal to be reviewed. They need to be in PDF format and below 5 megabytes. Please use Google Chrome on a computer to properly utilize the VMSDEP portal.",
+    "active": true
+  },
+  {
+    "id": "student_must_contact_directly",
+    "category": "Privacy",
+    "title": "Student Must Contact Us Directly",
+    "body": "The student would need to contact us directly regarding any inquiry on the student's benefits or account.",
+    "active": true
+  },
+  {
+    "id": "veteran_verified_student_accounts_needed",
+    "category": "Privacy",
+    "title": "Veteran Verified - Students Need Own Accounts",
+    "body": "Since you have already been verified, there are no further actions needed from the veteran profile. The student(s) will need to sign up for their own account(s) to continue applying for the benefits.",
+    "active": true
+  },
+  {
+    "id": "spoke_earlier_followup",
+    "category": "Follow-Up",
+    "title": "Spoke Earlier - Follow Up",
+    "body": "We spoke earlier. Please reach out if you have any further questions or concerns.",
+    "active": true
+  },
+  {
+    "id": "technical_issue_resolved",
+    "category": "Technical Issue",
+    "title": "Technical Issue Resolved",
+    "body": "Apologies for the delay. The technical issue has been resolved.",
+    "active": true
+  },
+  {
+    "id": "proof_of_presence_dd214_or_five_years",
+    "category": "Proof of Presence",
+    "title": "Proof of Presence - DD214 or Five Years",
+    "bodyText": "Unfortunately, Virginia would need to be the home of record at time of entry into military service on the DD 214, or the veteran would need to have lived in Virginia for the five years immediately prior to the date of college application to meet the proof of presence requirement.\n\nFor more information, please review the Virginia Military Survivors & Dependents Education Program general information page.",
+    "bodyHtml": "<p>Unfortunately, Virginia would need to be the home of record at time of entry into military service on the DD 214, or the veteran would need to have lived in Virginia for the five years immediately prior to the date of college application to meet the proof of presence requirement.</p><p>For more information, please review the <a href=\"https://www.dvs.virginia.gov/benefits-services/education/virginia-military-survivors-dependents-education-program-vmsdep\">Virginia Military Survivors & Dependents Education Program general information page</a>.</p>",
+    "active": true
+  },
+  {
+    "id": "verified_tier_1_email_defaulted_tier_2",
+    "category": "Tier Status",
+    "title": "Verified Tier 1 - Email Defaulted to Tier 2",
+    "body": "Unfortunately, the account was only verified for Tier 1. Our automated emails occasionally default to Tier 2 for their communications.",
+    "active": true
+  },
+  {
+    "id": "tier_2_reconsideration_evidence",
+    "category": "Tier Status",
+    "title": "Tier 2 Reconsideration Evidence",
+    "body": "For reconsideration of Tier 2 eligibility, you must submit new combat evidence to show that the Veteran’s or service member’s death or service-connected condition(s) resulted from direct involvement in covered military combat.\n\nOfficial documents you may submit for reconsideration include, but are not limited to:\n\nVA Rating Decision Narrative\nRelevant Service Medical Record\nRelevant Military Personnel File\nPrior Military Disability Board Decision\nLine of Duty Determination\nCombat-Related Special Compensation (CRSC) eligibility information that includes the Veteran’s combat-related percentage\n\nIf you have appointed a Veterans Services Organization (VSO) or representative to assist you with Veteran support services, you may contact your VSO or representative to assist you in obtaining the requested information listed above. If you have not appointed a VSO or representative, you may contact the USDVA at 1-800-827-1000 or visit the USDVA website at www.va.gov for a list of VSOs and representatives recognized or approved to provide services to the Veteran community.",
+    "active": true
+  },
+  {
+    "id": "rating_does_not_increase_tier",
+    "category": "Tier Status",
+    "title": "Rating Does Not Increase Benefit Tier",
+    "body": "The rating does not increase the benefit tier. The tier is considered based on the DD214 and combat involvement. You may ask for reconsideration if there is a new DD214 that has new findings.",
+    "active": true
+  },
+  {
+    "id": "tier_2_vs_tier_1",
+    "category": "Tier Status",
+    "title": "Tier 2 Difference from Tier 1",
+    "body": "Tier 2 differs from Tier 1 because it is only granted in cases where combat evidence is submitted to show that the Veteran’s or service member’s death or service-connected condition(s) resulted from direct involvement in covered military combat.",
+    "active": true
+  },
+  {
+    "id": "dishonorable_discharge_error",
+    "category": "Portal",
+    "title": "Dishonorable Discharge Error",
+    "body": "The reason you are currently unable to submit your veteran profile is due to the response selected under the military discharge section. Specifically, the system shows that “Yes” was selected for a dishonorable discharge, which disqualifies applicants under the program’s eligibility criteria. This is what is triggering the error message you're seeing. If this was selected in error, please log back into your application, select the Edit button, correct the answer, and attempt to resubmit.",
+    "active": true
+  },
+  {
+    "id": "old_system_account_set_up_through_student",
+    "category": "Portal",
+    "title": "Old System Transfer - Account Through Student",
+    "body": "The account is set up through the student account because your information transferred from our old system and is not set up for login. No further action is needed from your account. Your email was listed, so you received an email regarding the student's account.",
+    "active": true
+  },
+  {
+    "id": "select_veteran_name_blue",
+    "category": "Portal",
+    "title": "Select Veteran Name Highlighted in Blue",
+    "body": "Please log in and select the veteran's name highlighted in blue to access the veteran profile and move forward with the application.",
+    "active": true
+  },
+ {
+  "id": "veterans_not_eligible_mewi",
+  "category": "Eligibility",
+  "title": "Veterans Not Eligible - MEWI Information",
+  "bodyText": "Please note that VMSDEP is not available to veterans themselves. This program is specifically designed to support the spouses and children of qualifying veterans. Because of this restriction, veterans are not eligible to use VMSDEP benefits directly.\n\nHowever, you may be able to find assistance through the Military Education Workforce Initiative (MEWI). MEWI provides valuable educational support and career resources, though it is important to understand that MEWI is not a tuition waiver. Instead, it may help reduce the cost of educational programs or connect you with funding and training opportunities to support your career goals.",
+  "bodyHtml": "<p>Please note that VMSDEP is not available to veterans themselves. This program is specifically designed to support the spouses and children of qualifying veterans. Because of this restriction, veterans are not eligible to use VMSDEP benefits directly.</p><p>However, you may be able to find assistance through the <a href=\"https://www.dvs.virginia.gov/benefits-services/education/military-education-and-workforce-initiative-mewi\">Military Education Workforce Initiative (MEWI)</a>. MEWI provides valuable educational support and career resources, though it is important to understand that MEWI is not a tuition waiver. Instead, it may help reduce the cost of educational programs or connect you with funding and training opportunities to support your career goals.</p>",
+  "active": true
+},
+  {
+  "id": "age_waiver_request_received_summer_2026",
+  "category": "Age Waiver",
+  "title": "Age Waiver Request Received - Summer 2026",
+  "body": "Your age waiver request has been received. You should receive a response no later than the end of the Summer 2026 semester.",
+  "active": true
+},
+{
+  "id": "no_update_summer_2026_response_timeline",
+  "category": "Age Waiver",
+  "title": "No Update - Summer 2026 Response Timeline",
+  "body": "At this time, there has not been an update.\n\nYou should receive a response no later than the end of the Summer 2026 semester.",
+  "active": true
+},
+{
+  "id": "previous_term_enrollment_added_certify",
+  "category": "SECO",
+  "title": "{{previousTerm}} Enrollment Added - Certify Enrollment",
+  "body": "{{previousTerm}} enrollment has been added to the portal for [Insert Student's Name]. You may now certify the enrollment.",
+  "active": true
+},
+{
+  "id": "proof_applicant_admitted_student_and_application_admission",
+  "category": "Documents",
+  "title": "Proof Applicant Is an Admitted Student / Proof of Application for Admission",
+  "bodyText": "Proof Applicant is an Admitted Student\n\nEnrollment Degree Certification listing the applicant's full name, the name of the attending Virginia public college or university, and the name of the degree-granting program.\n\n-OR-\n\nLetter of Acceptance listing the applicant's full name, the name of the attending Virginia public college or university, and the name of the degree-granting program.\n\nNOTE: According to Code of Virginia § 23.1-608, “the Virginia Military Survivors and Dependents Education Program is established for the purpose of waiving tuition and mandatory fees...for qualified survivors and dependents who have been admitted” to a Virginia public college or university. An Admitted Student is an “applicant who is offered admission to a degree-granting program at an institution.”\n\nProof of Application for Admission\n\nOne of the following items is required if Virginia is not listed as the Home of Record Upon Entry on the item used to show Proof of Military Service:\n\nCopy of the admission application confirmation email listing the applicant's full name, the name of the attending Virginia public college or university, and the date of application for admission.\n\n-OR-\n\nA screenshot of the admission application portal listing the applicant's full name, the name of the attending Virginia public college or university, and the date of application for admission. NOTE: The screenshot must be converted into a PDF to upload into the VMSDEP application portal.\n\n-OR-\n\nA letter from the attending Virginia public college or university listing the applicant's full name, the name of the attending school, and the date of application for admission.",
+  "bodyHtml": "<p><strong>Proof Applicant is an Admitted Student</strong></p><p>Enrollment Degree Certification listing the applicant's full name, the name of the attending Virginia public college or university, and the name of the degree-granting program.</p><p><strong>-OR-</strong></p><p>Letter of Acceptance listing the applicant's full name, the name of the attending Virginia public college or university, and the name of the degree-granting program.</p><p><strong>NOTE:</strong> According to <a href=\"https://law.lis.virginia.gov/vacode/title23.1/chapter6/section23.1-608/#:~:text=Virginia%20Military%20Survivors%20and%20Dependents%20Education%20Program%3B%20tuition%20and%20fee%20waivers.&text=However%2C%20the%20Commissioner%20of%20Veterans,before%20the%20age%20of%2030.\">Code of Virginia § 23.1-608</a>, “the Virginia Military Survivors and Dependents Education Program is established for the purpose of waiving tuition and mandatory fees...for qualified survivors and dependents who have been admitted” to a Virginia public college or university. An <a href=\"https://research.schev.edu/info/Glossary/Admitted-student\">Admitted Student</a> is an “applicant who is offered admission to a degree-granting program at an institution.”</p><p><strong>Proof of Application for Admission</strong></p><p>One of the following items is required if Virginia is not listed as the Home of Record Upon Entry on the item used to show Proof of Military Service:</p><p>Copy of the admission application confirmation email listing the applicant's full name, the name of the attending Virginia public college or university, and the date of application for admission.</p><p><strong>-OR-</strong></p><p>A screenshot of the admission application portal listing the applicant's full name, the name of the attending Virginia public college or university, and the date of application for admission. <strong>NOTE:</strong> The screenshot must be converted into a PDF to upload into the VMSDEP application portal.</p><p><strong>-OR-</strong></p><p>A letter from the attending Virginia public college or university listing the applicant's full name, the name of the attending school, and the date of application for admission.</p>",
+  "active": true
+},
+{
+  "id": "va_disability_rating_documentation_requirements",
+  "category": "Eligibility",
+  "title": "VA Disability Rating Documentation Requirements",
+  "bodyText": "To determine eligibility for the Virginia Military Survivors and Dependents Education Program (VMSDEP), documentation must show that the Veteran meets one of the following requirements:\n\n• A Department of Veterans Affairs (VA) disability rating of at least 90% static with no future examinations scheduled;\n\n-OR-\n\n• A determination by the VA that the Veteran is Total and Permanent (T&P).\n\nAcceptable documentation may include one of the following:\n\n1. A VA letter showing the Veteran is considered Total and Permanent (T&P), or confirming a 90% static disability rating with no future examinations scheduled;\n\n2. A complete VA Rating Decision Narrative showing all service-connected conditions contributing to the 90% disability rating and indicating that the conditions are static/no future examinations are required;\n\n3. A collection of VA Rating Decision Narratives for all applicable service-connected conditions, if multiple decisions are needed to demonstrate the qualifying rating and static status.\n\nPlease ensure that all submitted documentation includes the Veteran’s name and sufficient rating information for review.\n\nDocumentation may be uploaded directly through the VMSDEP portal or submitted in response to this email for review.",
+  "bodyHtml": "<p>To determine eligibility for the Virginia Military Survivors and Dependents Education Program (VMSDEP), documentation must show that the Veteran meets one of the following requirements:</p><ul><li>A Department of Veterans Affairs (VA) disability rating of at least 90% static with no future examinations scheduled;</li></ul><p><strong>-OR-</strong></p><ul><li>A determination by the VA that the Veteran is Total and Permanent (T&amp;P).</li></ul><p>Acceptable documentation may include one of the following:</p><ol><li>A VA letter showing the Veteran is considered Total and Permanent (T&amp;P), or confirming a 90% static disability rating with no future examinations scheduled;</li><li>A complete VA Rating Decision Narrative showing all service-connected conditions contributing to the 90% disability rating and indicating that the conditions are static/no future examinations are required;</li><li>A collection of VA Rating Decision Narratives for all applicable service-connected conditions, if multiple decisions are needed to demonstrate the qualifying rating and static status.</li></ol><p>Please ensure that all submitted documentation includes the Veteran’s name and sufficient rating information for review.</p><p>Documentation may be uploaded directly through the VMSDEP portal or submitted in response to this email for review.</p>",
+  "active": true
+},
+{
+  "id": "qualifying_veterans",
+  "category": "Eligibility",
+  "title": "Qualifying Veterans for VMSDEP",
+  "bodyText": "A qualifying military service member is one who:\n\n• served in military combat and due to such service was Killed In Action; or\n\n• served in military combat and due to such service became Missing In Action; or\n\n• served in military combat and due to such service was taken Prisoner Of War; or\n\n• is rated by the USDVA as totally and permanently disabled or at least 90% permanently disabled due to military service.\n\nNote: Service in military combat includes (1) a military operation against terrorism; (2) a peacekeeping mission; (3) a terrorist act; or (4) any armed conflict.\n\nNote: A Tier 2 qualifying service member must also meet the domiciliary requirement as defined in the Code of Virginia § 23.1-608.",
+  "bodyHtml": "<p><strong>A qualifying military service member is one who:</strong></p><ul><li>served in military combat and due to such service was <strong>Killed In Action</strong>; or</li><li>served in military combat and due to such service became <strong>Missing In Action</strong>; or</li><li>served in military combat and due to such service was taken <strong>Prisoner Of War</strong>; or</li><li>is rated by the USDVA as totally and permanently disabled or at least 90% permanently disabled due to military service.</li></ul><p><strong>Note:</strong> Service in military combat includes (1) a military operation against terrorism; (2) a peacekeeping mission; (3) a terrorist act; or (4) any armed conflict.</p><p><strong>Note:</strong> A qualifying service member must also meet the domiciliary requirement as defined in the Code of Virginia <a href=\"https://law.lis.virginia.gov/vacode/title23.1/chapter6/section23.1-608/\">§ 23.1-608</a>.</p>",
+  "active": true
+},
+{
+  "id": "request_proof_static_90_disability_rating",
+  "category": "Specialist",
+  "title": "Request for Proof of Static 90% Disability Rating",
+  "bodyText": "To verify eligibility under VMSDEP requirements, documentation must show that the Veteran’s 90% service-connected disability rating is considered static by the U.S. Department of Veterans Affairs.\n\nA static disability is one that is “considered permanent by its nature, history and severity” and is assigned “without the need for future examinations,” as referenced in M21-1MR, Part IV, Subpart ii, Chapter 3, Section B.\n\nThe VA may schedule future examinations to determine whether a Veteran’s service-connected disability has improved. If improvement is found, the VA may reduce the disability rating percentage. For this reason, VMSDEP must receive documentation showing whether the Veteran’s service-connected disabilities are subject to future examination.\n\nThe following documents may be submitted for review:\n\n• VA Rating Decision Narrative\nand/or\n• VA Award Letter\n\nPlease ensure the submitted documentation clearly shows whether the Veteran’s disabilities are considered static, permanent in nature, and not subject to future examinations.",
+  "bodyHtml": "<p>To verify eligibility under VMSDEP requirements, documentation must show that the Veteran’s 90% service-connected disability rating is considered static by the U.S. Department of Veterans Affairs.</p><p>A static disability is one that is “considered permanent by its nature, history and severity” and is assigned “without the need for future examinations,” as referenced in <a href=\"https://www.benefits.va.gov/warms/topic-compensation-pension.asp\">M21-1MR, Part IV, Subpart ii, Chapter 3, Section B</a>.</p><p>The VA may schedule future examinations to determine whether a Veteran’s service-connected disability has improved. If improvement is found, the VA may reduce the disability rating percentage. For this reason, VMSDEP must receive documentation showing whether the Veteran’s service-connected disabilities are subject to future examination.</p><p>The following documents may be submitted for review:</p><ul><li>VA Rating Decision Narrative</li><li>VA Award Letter</li></ul><p><strong>and/or</strong></p><p>Please ensure the submitted documentation clearly shows whether the Veteran’s disabilities are considered static, permanent in nature, and not subject to future examinations.</p>",
+  "active": true
+},
+{
+  "id": "veteran_va_residency_2019_to_2023",
+  "category": "Specialist",
+  "title": "Veteran Virginia Proof of Residency - 2019 to 2023",
+  "body": "Submit Veteran Virginia proof of residency for 2023, 2022, 2021, 2020, and 2019. Documents must include the veteran's name, Virginia address, and the referenced dates above.",
+  "active": true
+},
+{
+  "id": "veteran_va_residency_2020_to_2024",
+  "category": "Specialist",
+  "title": "Veteran Virginia Proof of Residency - 2020 to 2024",
+  "body": "Submit Veteran Virginia proof of residency for 2024, 2023, 2022, 2021, and 2020. Documents must include the veteran's name, Virginia address, and the referenced dates above.",
+  "active": true
+},
+{
+  "id": "veteran_va_residency_2021_to_2025",
+  "category": "Specialist",
+  "title": "Veteran Virginia Proof of Residency - 2021 to 2025",
+  "body": "Submit Veteran Virginia proof of residency for 2025, 2024, 2023, 2022, and 2021. Documents must include the veteran's name, Virginia address, and the referenced dates above.",
+  "active": true
+},
+{
+  "id": "veteran_va_residency_2022_to_2026",
+  "category": "Specialist",
+  "title": "Veteran Virginia Proof of Residency - 2022 to 2026",
+  "body": "Submit Veteran Virginia proof of residency for 2026, 2025, 2024, 2023, and 2022. Documents must include the veteran's name, Virginia address, and the referenced dates above.",
+  "active": true
+},
+{
+  "id": "vmsdep_tuition_fees_degree_programs_faq",
+  "category": "Enrollment",
+  "title": "VMSDEP Tuition and Mandatory Fees - Degree Programs",
+  "bodyText": "VMSDEP waives tuition and mandatory fees for up to eight semesters at Virginia public colleges for degree-seeking programs. Please contact the military office at your college for any questions about a specific program.\n\nPlease see page 6 on our Frequently Asked Questions 2025-26.",
+  "bodyHtml": "<p>VMSDEP waives tuition and mandatory fees for up to eight semesters at Virginia public colleges for degree-seeking programs. Please contact the military office at your college for any questions about a specific program.</p><p>Please see page 6 on our <a href=\"https://www.dvs.virginia.gov/home/showpublisheddocument/1027/639100525687930000\">Frequently Asked Questions 2025-26</a>.</p>",
+  "active": true
+}
+]
